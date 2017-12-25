@@ -3,6 +3,7 @@ service:
 
 # Add the serverless-webpack plugin
 plugins:
+  - serverless-plugin-flow
   - serverless-webpack
 
 provider:

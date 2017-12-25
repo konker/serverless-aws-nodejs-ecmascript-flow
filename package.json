@@ -1,0 +1,27 @@
+{
+  "name": "aws-nodejs-es6-flow",
+  "version": "1.0.0",
+  "description": "Serverless webpack example using es6 and flow",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-flow": "^6.23.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1",
+    "flow-bin": "^0.61.0",
+    "flow-typed": "^2.2.3",
+    "serverless": "^1.25.0",
+    "serverless-webpack": "^3.1.1",
+    "webpack": "^3.3.0"
+  },
+  "author": "Konrad Markus <konker@iki.fi>",
+  "license": "ISC"
+}
